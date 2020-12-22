@@ -1,0 +1,51 @@
+==========================
+Hipótesis de Riemann
+==========================
+
+NUMEROS PRIMOS: Algunos números naturales no tienen ningún divisor aparte de sí mismos y el 1
+
+a distribución de estos números en el conjunto de los números naturales enteros no obedece ninguna lógica
+
+alemán Bernhard Riemann 
+'función zeta'
+que describe la distribución de los 'ceros no triviales'. 
+
+El propio autor de la conjetura no pudo predecir la transcendencia informática de sus ideas.
+
+En el año 2004 Xavier Gourdon verificó la conjetura de Riemann numéricamente a lo largo de los primeros diez trillones de ceros no triviales de la función. Sin embargo, la comunidad matemática concluyó que no se trataba estrictamente de una demostración. 
+
+==========================
+Ecuaciones de Navier-Stokes
+==========================
+
+ago en una barca aparecerán ondas sobre el agua, si lo sobrevolamos en un avión se formarán estelas de turbulencia.
+
+Navier-Stokes
+Se supone que ambos fenómenos mecánicos, los movimientos de fluidos que dejan, están descritos por el conjunto de ecuaciones de Navier-Stokes
+
+RAMA DE LA FISICA 'dinámica de fluidos computacional'. 
+
+El profesor Mujtarbái Otelbáyev --> SOLUCION A COMIENZOS DE LAS ECUACIONS DE Navier-Stokes sobre la mecánica de fluidos.
+
+seguró que para cada conjunto inicial de parámetros la solución es única y se reduce a derivadas parciales no lineales que describen el movimiento de cualquier fluido. 
+
+Fue formulado en 1822  POR el físico francés Claude-Louis Navier 
+
+==========================
+problema de la concurrencia
+==========================
+problema que permitia trabajar con numeros imaginarios y grandes, dio origen a muchos avances en computacion
+
+
+averiguar sobre http://esmateria.com/2014/08/13/una-mujer-gana-por-primera-vez-el-nobel-de-las-matematicas/
+
+ver videos contexto politico por el que paso Gregori Peremat hahaha
+
+
+talleres:
+1) administracion linux
+
+
+
+
+
