@@ -14,7 +14,7 @@ aa_dfw_df = aa_dfw_df.withColumn('airport', F.lower(aa_dfw_df['Destination Airpo
 # Drop the Destination Airport column
 aa_dfw_df = aa_dfw_df.drop(aa_dfw_df['Destination Airport'])
 
-# Show the DataFrame
+# Show the DataFrame 
 aa_dfw_df.show()
 
 '''
