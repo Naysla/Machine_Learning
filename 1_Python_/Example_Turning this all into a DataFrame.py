@@ -6,7 +6,7 @@ list_of_dicts = [lists2dict(feature_names, sublist) for sublist in row_lists]
 
 # Turn list of dicts into a DataFrame: df
 df = pd.DataFrame(list_of_dicts)
-
+ 
 # Print the head of the DataFrame
 print(df.head())
 

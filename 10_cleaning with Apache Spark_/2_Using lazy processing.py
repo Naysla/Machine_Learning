@@ -15,7 +15,7 @@ aa_dfw_df = aa_dfw_df.withColumn('airport', F.lower(aa_dfw_df['Destination Airpo
 aa_dfw_df = aa_dfw_df.drop(aa_dfw_df['Destination Airport'])
 
 # Show the DataFrame 
-aa_dfw_df.show()
+aa_dfw_df.show() 
 
 '''
 Great! You've just seen how lazy processing works in action. Remember when working with Spark that no transformations take effect until you apply an action. This can be confusing at times, but is one of the underpinnings of Spark's power.
